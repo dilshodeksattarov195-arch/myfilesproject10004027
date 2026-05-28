@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenrerify",
+        "uuid": 20380647,
+        "checksum": "p5gais"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
